@@ -107,7 +107,7 @@ Refer to the note above to locate your notes in the respective folders.
    - Revisiting strings
    - The String class
    - Wrapper classes 
-   - The Math class
+   - The Math class13r
    - Project 7
 
 9. **Lesson 9: Review**
@@ -132,7 +132,136 @@ Students must complete a final project for this class, with requirements provide
 
 ## AP Computer Science A
 
-TODO
+This course delves into the inner workings of Java, with a strong focus on preparing students for the AP Exam. The course is less project-based and more homework-intensive.
+
+Refer to the note above to locate your notes in the respective folders.
+
+### Tools and Submission
+- **Coding Environment**: Eclipse
+- **Project Submission**: GitHub Classroom
+- **Support**: After-class help or messages via Outschool.
+
+1. **Lesson 1: Review of Java**
+    - What is an IDE?
+    - Moving to an IDE
+    - Installing Eclipse IDE
+    - Review of the basics of Java
+
+2. **Lesson 2: Program Analysis and Design Part 1**
+    - Introduction to Software Engineering
+    - Program Specification
+    - Program Design
+    - Program Implementation
+    - Testing and Debugging
+    - Error Handling
+    - Robustness
+    - Program Maintenance
+
+3. **Lesson 3: Program Analysis and Design Part 2**
+    - Object-Oriented Program Design
+    - Identifying Classes
+    - Identifying Behaviors
+    - Determining Relationships Between Classes
+    - UML Diagrams
+    - Implementing Classes
+    - Implementing Methods
+    - Assertions
+    - Efficiency
+
+4. **Lesson 4: Inheritance and Polymorphism**
+    - What is Inheritance?
+    - Superclass and Subclass
+    - Inheritance Hierarchy
+    - Implementing Subclasses
+    - Method Overriding and `super`
+    - Declaring Subclasses
+    - Introduction to Polymorphism
+    - Dynamic Binding
+    - Type Compatibility
+
+5. **Lesson 5: Java Swing Part 1**
+    - Basics of GUI
+    - Basics of Java Swing
+    - Java Swing Layouts
+    - Making a Frame
+    - Adding Components
+    - Action Listeners
+    - Making a Basic GUI
+    - Project 1
+
+6. **Lesson 6: Java Swing Part 2**
+    - Basics of Computer Graphics
+    - JPanel
+    - Paint Component
+    - Key Listener
+    - ImageIcons
+    - Border Layouts
+    - Making a Basic Game
+    - A Talk About LWJGL
+    - Project 2
+
+7. **Lesson 7: Java Swing Part 3**
+    - Introduction to Databases
+    - GridLayout
+    - Dialog and Message Boxes
+    - Creating Tables
+    - Selecting Rows from a Table
+    - Lookups
+    - Deleting Rows from a Table
+    - Saving as a Text File
+    - Reading from a Text File
+    - A Talk About SQL
+    - Project 3
+
+8. **Lesson 8: Introduction to Algorithms: Recursion**
+    - What Are Algorithms?
+    - Introduction to Recursion
+    - Recursive Mathematics
+    - Recursive Methods
+    - General Form of Recursion
+    - Writing Recursive Methods
+    - Recursive Method Analysis
+    - Recursive Helper Methods
+    - Recursion in 2D
+    - Project 4
+
+9. **Lesson 9: Introduction to Algorithms: Searching and Sorting**
+    - Introduction to Sorting
+    - Bubble Sort
+    - Selection Sort
+    - Insertion Sort
+    - Recursive Sorts
+    - Introduction to Searching
+    - Linear Search
+    - Sequential Search
+    - Binary Search
+    - Binary Search Analysis
+    - Project 5
+
+10. **Lesson 10: Thank You and Good Luck**
+    - Student Final Project Showcase
+    - Tips for Taking the Exam
+    - Thank You and Good Luck!
+
+### Project List
+
+1. **Project 1**: Google Docs
+2. **Project 2**: Tic Tac Toe
+3. **Project 3**: Spreadsheets
+4. **Project 4**: Tic Tac Toe AI
+5. **Project 5**: Search and Sort
+
+All students should complete homework from the textbook to best prepare for the AP Exam. The projects are designed to showcase how different aspects of Java work.
+
+Students must complete a final project for this class. The final project must be unique and related to Java. Here are some ideas:
+
+It is highly encouraged in this course to explore topics that interest you. Your instructor will provide more final project requirements if necessary.
+
+1. Messenger: Learn about Java Sockets and Networking
+2. SQL Database
+3. 2D Game
+4. Sort Visualizer
+5. Graphing
 
 ## Questions
 
