@@ -99,15 +99,15 @@ Refer to the note above to locate your notes in the respective folders.
    - Introduction to classes 
    - Basic class structure 
    - How imports work
-   - Introduction to text files
-   - FileReader and FileWriter
    - Project 6
 
 8. **Lesson 8: Some Standard Classes**
    - Revisiting strings
    - The String class
    - Wrapper classes 
-   - The Math class13r
+   - The Math class
+   - Introduction to text files
+   - FileReader and FileWriter
    - Project 7
 
 9. **Lesson 9: Review**
